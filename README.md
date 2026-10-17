@@ -1,1 +1,0 @@
-# Postgree_SQL
